@@ -71,5 +71,6 @@ Jika ada pertanyaan atau ingin berdiskusi, bisa hubungi:
 📩 Email: mujadidjundifauzi200@gmail@gmail.com  
 💬 Instagram: @jund.fauz
 
+---
 
 NB: The app is still in early/alpha version
