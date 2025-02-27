@@ -1,6 +1,3 @@
-Berikut adalah file **`README.md`** dalam format Markdown:  
-
-```markdown
 # 📚 Tryout App - Open Source Project  
 Aplikasi tryout berbasis web yang dikembangkan menggunakan **React.js** dan **Tailwind CSS**.  
 
@@ -73,6 +70,6 @@ Jika berminat untuk bekerja sama, bisa hubungi:
 Jika ada pertanyaan atau ingin berdiskusi, bisa hubungi: 
 📩 Email: mujadidjundifauzi200@gmail@gmail.com  
 💬 Instagram: @jund.fauz
-```
 
-NB: Masih dalam tahap pengembangan awal
+
+NB: The app is still in early/alpha version
